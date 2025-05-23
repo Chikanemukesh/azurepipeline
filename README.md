@@ -1,2 +1,0 @@
-# azurepipeline
-pipeline
